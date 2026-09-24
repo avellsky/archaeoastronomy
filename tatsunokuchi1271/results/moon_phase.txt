@@ -1,0 +1,10 @@
+ 2.00 JST  age 11.96 d  illum 0.932  phase angle  30.2  mag -12.08  Waxing Gibbous  Az  255.0  El +19.0  bright-limb PA 244.7
+ 3.62 JST  age 12.03 d  illum 0.936  phase angle  29.4  mag -12.09  Waxing Gibbous  Az  269.3  El  +0.4  bright-limb PA 244.5
+ 3.75 JST  age 12.04 d  illum 0.936  phase angle  29.3  mag -12.10  Waxing Gibbous  Az  270.5  El  -1.1  bright-limb PA 244.4
+12.00 JST  age 12.38 d  illum 0.958  phase angle  23.6  mag -12.22  Waxing Gibbous  Az   43.4  El -44.2  bright-limb PA 243.2
+principal phases (JST, Julian calendar):
+  new_moon       1271-10-06 02:52
+  first_quarter  1271-10-13 13:03
+  full_moon      1271-10-20 06:04
+  last_quarter   1271-10-27 17:11
+  new_moon       1271-11-04 18:45

@@ -1,0 +1,4 @@
+2.0 apex az 91.9 alt 38.7 antihelion az 234.6 alt 61.9
+3.0 apex az 102.1 alt 50.8 antihelion az 251.7 alt 51.0
+3.75 apex az 112.6 alt 59.6 antihelion az 260.5 alt 42.1
+4.25 apex az 122.3 alt 65.0 antihelion az 265.5 alt 36.0

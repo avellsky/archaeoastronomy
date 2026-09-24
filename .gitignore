@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+# JPL ephemerides are large; download separately
+*.bsp
+# CDS catalogue is downloaded by fireball_rate.py
+tatsunokuchi1271/data/en_catalog.dat

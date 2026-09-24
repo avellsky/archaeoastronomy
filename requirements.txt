@@ -1,0 +1,4 @@
+numpy>=1.24
+pyerfa>=2.0
+jplephem>=2.18
+matplotlib>=3.7

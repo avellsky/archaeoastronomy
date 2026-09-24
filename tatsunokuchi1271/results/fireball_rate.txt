@@ -1,0 +1,13 @@
+cumulative counts / density (per km^2 per year of network operation):
+  M<=-10: N=105  rho=7.50e-05
+  M<=-11: N= 59  rho=4.21e-05
+  M<=-12: N= 27  rho=1.93e-05
+  M<=-13: N= 12  rho=8.57e-06
+  M<=-14: N=  2  rho=1.43e-06
+fit: log10 N(<=M) = 5.22 + 0.317 M
+apparent m<=-12, truncated at M=-14.5 (brightest observed -14.1): 0.57/yr (1 per 1.7 yr); within d<=150 km: 0.442/yr (1 per 2 yr)
+apparent m<=-12, power law extrapolated to M=-17: 1.28/yr (1 per 0.8 yr); within d<=150 km: 0.570/yr (1 per 2 yr)
+lambda 200-245 (12.5% of year): M<=-10 20 / 105 ; M<=-12 8 / 27
+Taurid-assigned: all 79 ; M<=-10 8 ; M<=-12 2
+near 221.5: EN031117_201116 2017/11/03 221.3588 sporadic -14.0
+near 221.5: EN041118_203933 2018/11/04 222.1192 sporadic -13.6
