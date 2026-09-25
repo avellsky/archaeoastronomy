@@ -6,6 +6,14 @@ Positional-astronomy reconstructions of historical celestial events.
 |---|---|
 | [`tatsunokuchi1271/`](tatsunokuchi1271/) | The luminous object of the Tatsunokuchi persecution (AD 1271 October 18, Julian): a supernova in Vela Jr. or a fireball? |
 
+### Astrarium
+
+The computations use the positional-astronomy engine of **Astrarium**
+(アストラリウム), an offline planetarium and sky-atlas application for iOS
+and macOS: <https://apps.apple.com/app/id6795053748>. The app performs simplified on-device
+calculations; the full procedure used for the paper (JPL DE406, ΔT, the
+Julian calendar, etc.) is described below and in the paper.
+
 ---
 
 ## tatsunokuchi1271 — the Tatsunokuchi luminous object (AD 1271)
@@ -22,7 +30,7 @@ ground (Ryūkōji, 35.311770° N, 139.489411° E, 18 m) and test two hypotheses:
 
 Paper: Hayakawa, H., Motizuki, Y., & Abe, S., *The luminous object of the
 Tatsunokuchi persecution (AD 1271): a supernova in Vela Jr. or a fireball?*
-(in preparation for PASJ).
+(to be submitted to *Icarus*).
 
 ### Main results
 
@@ -58,7 +66,7 @@ Text outputs of the scripts are stored in `results/`.
 
 * Python ≥ 3.10 with `numpy`, `pyerfa`, `jplephem`, `matplotlib` (`pip install -r requirements.txt`)
 * the computation core of **Astrarium** (the `astrarium` Python package; Abe 2026,
-  Astrarium v2.1). It is **not included** in this repository; point
+  Astrarium v2.1 — [App Store (iOS, macOS)](https://apps.apple.com/app/id6795053748)). It is **not included** in this repository; point
   `ASTRARIUM_SRC` to the directory that contains the `astrarium` package.
   The core uses ERFA (IAU SOFA) for IAU 2006/2000A precession–nutation,
   aberration, light deflection, parallax and refraction.
@@ -104,4 +112,5 @@ python3 figs_ja.py         # -> figures/ja/*.png
 
 If you use these scripts, please cite the paper above and
 
-* Abe, S. 2026, Astrarium, version 2.1, planetarium application for iOS and macOS.
+* Abe, S. 2026, Astrarium, version 2.1, planetarium application for iOS and macOS,
+  https://apps.apple.com/app/id6795053748
